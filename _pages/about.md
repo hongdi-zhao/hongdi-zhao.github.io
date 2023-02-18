@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://dyson.cornell.edu/'>Dyson School of Applied Economics and Management at Cornell University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Warren Hall, Room four-three-eight</p>
+    <p>Room 438, Warren Hall</p>
     <p>Cornell University</p>
     <p>Ithaca, NY 14853</p>
 
@@ -20,8 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am a Ph.D. Student in Applied Economics and Management at Cornell University. 
 My research interests lie in the fields of applied microeconomics with a focus on economic development and human well-being. I am interested in using Machine Learning as a tool to study economic development. 
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses that I have TAed for.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+* 2023 Spring: AEM 4421/5421, Research and Strategy in Emerging Markets.
+    - Professors: Ralph Christy, Fridah Mubichi-Kut
+* 2022 Fall: AEM 4420/5420, Emerging Markets.
+    - Professor: Ralph Christy
