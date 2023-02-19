@@ -33,22 +33,23 @@
       institution: International Food Policy Research Institute, Washington DC
       year: Sep 2020 - Jul 2021
       description:
-        - PIs: Katrina Kosec, Catherine Ragasa
+        - PIs are Katrina Kosec, Catherine Ragasa
     - title: Pre-doctoral Research Fellow
       institution: Yale Economic Growth Center, New Haven, CT
       year: Jul 2019 - Aug 2020
       description:
-        - PIs: Rohini Pande, Erica Field, Giorgia Barboni
+        - PIs are Rohini Pande, Erica Field, Giorgia Barboni
     - title: Research Fellow
       institution: Harvard Kennedy School of Government, Cambridge, MA
       year: Jul 2018 - Jul 2019
+        - PIs are Rohini Pande, Erica Field, Giorgia Barboni
 
 - title: Current Service
   type: time_table
   contents:
     - year: 2022 - Current
       items: 
-        - Graduate Resident Fellow, Flora Rose House, Cornell University
+        - [Graduate Resident Fellow](https://florarosehouse.cornell.edu/people/biographies/hongdi-zhao), Flora Rose House, Cornell University
 
 - title: Interests
   type: list
