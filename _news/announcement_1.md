@@ -34,7 +34,7 @@ If Dr. qianqian has any worries, that must be that she wants her food in the ear
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qianqian/qianqian_beggingforfood_inthemorning.jpg" title="Qianqian asks for food" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/qianqian/qianqian_food.jpg" title="Qianqian asks for food" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -44,6 +44,6 @@ I am lucy to have her. I wish her always healthy and happy!
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qianqian/qianqian_cornel_slope.jpeg.jpeg" title="Qianqian on Cornell Slope" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/qianqian/qianqian_cornell_slope.jpeg.jpeg" title="Qianqian on Cornell Slope" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
