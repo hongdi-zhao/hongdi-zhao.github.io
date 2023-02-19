@@ -7,4 +7,5 @@ inline: false
 
 I gave a presentation to my classmates in AEM 7130 Dynamic Optimization class on how to build their own website using GitHub Pages. Since this presentation, I updated my github website and re-build a different website using a much better template.
 
-In case if you would like to build your own website too, please find my presentation slides (step-by-step tutorial) <a href="assets/pdf/AEM7130-presentation-feb15-hz399.pdf">here.</a>
+In case if you would like to build your own website too, please find my presentation slides (step-by-step tutorial):
+ <embed src="/assets/pdf/AEM7130-presentation-feb15-hz399.pdf.pdf" type="application/pdf">
