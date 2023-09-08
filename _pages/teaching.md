@@ -7,7 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-Teaching Assistantship:
+Teaching Assistantship (Fall/Spring):
+* 2023 Fall: [AEM 4415/5415](https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415), Field Research and Pre-Engagement with Social Enterprises in Emerging Markets.
+    * Prof. Fridah Mubichi-Kut
+    * Undergraduate & Graduate
 * 2023 Spring: [AEM 4421/5421](https://classes.cornell.edu/browse/roster/SP23/class/AEM/5421), Research and Strategy in Emerging Markets.
     * Prof. Ralph Christy, Prof. Fridah Mubichi-Kut
     * Undergraduate & Graduate
@@ -18,7 +21,15 @@ Teaching Assistantship:
     * Prof. Thomas Evans
     * Undergraduate
 
-Grader:
+Teaching Assistantship (Winter/Summer):
+* [ECON 1120](https://classes.cornell.edu/browse/roster/SU23/class/ECON/1120), Introductory Macroeconomics
+    * Prof. Thomas Evans
+    * Undergraduate
+    * 2023 Summer * 2, 2023 Winter
+
+Other Course Assistant & Grader:
+* NCCT 5020, Intermediate Microeconomics (Tshinghua & Cornell Joint MBA Program)
+    * Prof. Michael Waldman
 * CRP 4770, Seminar on African Development
     * Prof. Muna Ndulo
 * NCCY 5020, Intermediate Microeconomics 
