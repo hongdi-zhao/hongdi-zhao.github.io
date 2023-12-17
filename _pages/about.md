@@ -6,7 +6,7 @@ subtitle: <a href='https://dyson.cornell.edu/'>Dyson School of Applied Economics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_202311.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 438, Warren Hall</p>
