@@ -8,6 +8,10 @@ nav_order: 5
 ---
 
 Teaching Assistantship (Fall/Spring):
+* 2024 Spring: [AEM 4940/6940](https://classes.cornell.edu/browse/roster/SP24/class/AEM/6940), Introduction to Machine Learning
+    * Prof. Jingwei Zhang
+    * Undergraduate & Graduate
+
 * 2023 Fall: [AEM 4415/5415](https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415), Field Research and Pre-Engagement with Social Enterprises in Emerging Markets.
     * Prof. Fridah Mubichi-Kut
     * Undergraduate & Graduate
@@ -25,7 +29,7 @@ Teaching Assistantship (Winter/Summer):
 * [ECON 1120](https://classes.cornell.edu/browse/roster/SU23/class/ECON/1120), Introductory Macroeconomics
     * Prof. Thomas Evans
     * Undergraduate
-    * 2023 Summer * 2, 2023 Winter
+    * 2023 Summer * 2, 2023 Winter, 2024 Winter
 
 Other Course Assistant & Grader:
 * NCCT 5020, Intermediate Microeconomics (Tshinghua & Cornell Joint MBA Program)
