@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Hongdi Zhao
+      value: Hongdi Zhao (she/her)
     - name: Languages
       value: Mandarin (Native), English
 
@@ -13,7 +13,7 @@
       institution: Cornell University, Ithaca NY, USA
       year: Expected 2026
       description:
-        - Minor: Data Science
+        - Minor in Data Science
         - Development Economics
         - Machine Learning
     - title: Master in International Development
