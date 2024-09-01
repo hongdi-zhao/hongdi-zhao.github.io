@@ -13,6 +13,7 @@
       institution: Cornell University, Ithaca NY, USA
       year: Expected 2026
       description:
+        - Minor: Data Science
         - Development Economics
         - Machine Learning
     - title: Master in International Development
@@ -22,9 +23,12 @@
       institution: East China Normal University, Shanghai, China
       year: 2016
 
-- title: Research Experience
+- title: Research & Work Experience
   type: time_table
   contents:
+    - title: Economist Intern
+      institution: Amazon, Seattle WA
+      year: May 2024 - Aug 2024
     - title: Research Analyst
       institution: International Food Policy Research Institute, Washington DC
       year: Sep 2020 - Jul 2021
@@ -44,16 +48,19 @@
 - title: Services
   type: time_table
   contents:
+    - year: 2024 - current
+      items:
+        - <a href="https://business.cornell.edu/centers/cider/stars/">STARS Program</a>, Peer Mentor
     - year: 2023 - 2024
       items: 
         - <a href="https://emergingmarkets.dyson.cornell.edu/ee-green-farms/">E&E Green Farms in Rwanda</a>, Project Lead, The Student Multidisciplinary Applied Research Teams (SMART) Program, Cornell University
         - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/">Child Marriage in Nigeria</a>, Project Lead, The Student Multidisciplinary Applied Research Teams (SMART) Program, Cornell University
-    - year: 2022 - Current
-      items: 
-        - <a href="https://florarosehouse.cornell.edu/people/biographies/hongdi-zhao">Graduate Resident Fellow</a>, Flora Rose House, Cornell University
     - year: 2023 - Current
       items:
         - <a href="https://www.econthatmatters.com/2023/10/welcoming-new-assistant-editors/">Assistant Editor</a>, <a href="https://www.econthatmatters.com/">Economics That Really Matters (ETRM)</a>
+    - year: 2022 - Current
+      items: 
+        - <a href="https://florarosehouse.cornell.edu/people/biographies/hongdi-zhao">Graduate Resident Fellow</a>, Flora Rose House, Cornell University
     - year: 2021 - 2022
       items: 
         - <a href="https://emergingmarkets.dyson.cornell.edu/2022-esg-in-travel-tourism/">Developing a U.S. Sustainable Tourism Index</a>, Project Lead, The Student Multidisciplinary Applied Research Teams (SMART) Program, Cornell University

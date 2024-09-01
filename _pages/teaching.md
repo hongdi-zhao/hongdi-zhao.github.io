@@ -8,6 +8,10 @@ nav_order: 5
 ---
 
 Teaching Assistantship (Fall/Spring):
+* 2024 Fall: [AEM 6120](https://classes.cornell.edu/browse/roster/FA24/class/AEM/6120), Applied Econometrics
+    * Prof. Brian Dillion
+    * Graduate (Required Core Class for M.S. students in Dyson)
+
 * 2024 Spring: [AEM 4940/6940](https://classes.cornell.edu/browse/roster/SP24/class/AEM/6940), Introduction to Machine Learning
     * Prof. Jingwei Zhang
     * Undergraduate & Graduate
