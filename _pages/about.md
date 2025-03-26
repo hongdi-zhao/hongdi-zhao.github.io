@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 Hi! I am a Ph.D. candidate in Applied Economics and Management at Cornell University, with a minor in Data Science.
 My research interests lie in the fields of applied microeconomics with a focus on economic development and human well-being. I am interested in using Machine Learning as a tool to study economic development. 
 
-I am currently the Editor-in-Chief for "[Economics That Really Matters](https://www.econthatmatters.com/)", a blog hosted by the Collaboration for International Development Economics Research ([CIDER](https://business.cornell.edu/centers/cider/)) at Cornell University. If you are interested in posting your research on our blog, please contact me at hz399@cornell.edu.
+I am currently the Co-Editor-in-Chief for "[Economics That Really Matters](https://www.econthatmatters.com/)", a blog hosted by the Collaboration for International Development Economics Research ([CIDER](https://business.cornell.edu/centers/cider/)) at Cornell University. If you are interested in posting your research on our blog, please contact me at hz399@cornell.edu
