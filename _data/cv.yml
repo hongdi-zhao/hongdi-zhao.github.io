@@ -203,17 +203,15 @@ cv:
     #     end_date: 2018-01-01
 
     References:
-      - name: Professor Chris Barrett
+      - name: <a href="https://barrett.dyson.cornell.edu/">Professor Chris Barrett</a>
         url: https://barrett.dyson.cornell.edu/
         icon: fa-solid fa-laptop
         reference: Cornell University, Charles Dyson School of Applied Economics and Management
 
-      - name: Sumanta Basu
-        url: https://sumbose.stat.cornell.edu/
+      - name: <a href="https://sumbose.stat.cornell.edu/">Professor Sumanta Basu</a>
         icon: fa-solid fa-thumbtack
         reference: Cornell University, Bowers CIS, Department of Statistics and Data Science
   
-      - name: José Luis Montiel Olea
-        url: https://www.joseluismontielolea.com/
+      - name: <a href="https://www.joseluismontielolea.com/">Professor José Luis Montiel Olea</a>
         icon: fa-solid fa-thumbtack
         reference: Cornell University, Department of Economics
