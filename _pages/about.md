@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://dyson.cornell.edu/'>Dyson School of Applied Economics and Management at Cornell University</a>
+subtitle: 赵虹迪, <a href='https://dyson.cornell.edu/'>Dyson School of Applied Economics and Management at Cornell University</a>
 
 profile:
   align: right

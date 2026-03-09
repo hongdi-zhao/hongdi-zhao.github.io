@@ -112,7 +112,7 @@ cv:
       - company: STAR Program
         position: Peer Mentor
         start_date: 2024
-        end_date: current
+        end_date: present
         url: https://business.cornell.edu/centers/cider/stars/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
@@ -127,9 +127,9 @@ cv:
         start_date: 2023
         end_date: 2024
         url: https://www.econthatmatters.com/
-        items:
-          - <a href="https://emergingmarkets.dyson.cornell.edu/ee-green-farms/">E&E Green Farms in Rwanda</a>
-          - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/">Child Marriage in Nigeria</a>, Project Lead
+        highlights:
+          - '[E&E Green Farms in Rwanda](https://emergingmarkets.dyson.cornell.edu/ee-green-farms/)'
+          - '[Child Marriage in Nigeria](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/), Project Lead'
 
       - company: Cornell Flora Rose House
         position: Graduate Resident Fellow (GRF)
