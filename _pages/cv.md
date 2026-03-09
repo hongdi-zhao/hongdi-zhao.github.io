@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Hongdi_Zhao_CV.pdf
+cv_pdf: /assets/pdf/Hongdi_Zhao_CV.pdf
 ---
