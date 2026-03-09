@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Hongdi_Zhao_CV_20251217.pdf", "_blank");
+          window.open("/assets/pdf/Hongdi_Zhao_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
