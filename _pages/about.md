@@ -13,10 +13,10 @@ profile:
     <p>Cornell University</p>
     <p>Ithaca, NY 14853</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi! I am a fifth year Ph.D. candidate in Applied Economics and Management at Cornell University, with a minor in Data Science.
-My research interests lie in the fields of applied microeconomics with a focus on economic development and human well-being. I am interested in using Machine Learning as a tool to study economic development. 
+My research interests lie in the fields of applied microeconomics with a focus on economic development and human well-being. I am interested in using Machine Learning as a tool to study economic development.

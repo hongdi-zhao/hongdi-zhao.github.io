@@ -45,8 +45,8 @@ cv:
         start_date: 2016
         end_date: 2018
         # highlights:
-          # - Description 1.
-          # - Description 2.
+        # - Description 1.
+        # - Description 2.
 
       - institution: East China Normal University
         location: Shanghai, China
@@ -56,8 +56,8 @@ cv:
         # start_date: 2016
         end_date: 2016
         # highlights:
-          # - Description 1.
-          # - Description 2.
+        # - Description 1.
+        # - Description 2.
 
     Experience:
       - company: Analysis Group
@@ -73,8 +73,8 @@ cv:
         end_date: Aug 2024
         # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         # highlights:
-          # - Relativity
-          # - Description 2.
+        # - Relativity
+        # - Description 2.
 
       - company: International Food Policy Research Institute
         position: Research Analyst
@@ -82,8 +82,8 @@ cv:
         start_date: Sep 2020
         end_date: Jul 2021
         # highlights:
-          # - Description 1.
-          # - Description 2.
+        # - Description 1.
+        # - Description 2.
 
       - company: Yale Economic Growth Center
         position: Pre-doctoral Research Fellow
@@ -96,7 +96,6 @@ cv:
         location: Cambridge, MA
         start_date: Jul 2018
         end_date: Jul 2019
-
 
     # Volunteer:
     #   - company: People's Climate March
@@ -128,10 +127,10 @@ cv:
         start_date: 2023
         end_date: 2024
         url: https://www.econthatmatters.com/
-        items: 
+        items:
           - <a href="https://emergingmarkets.dyson.cornell.edu/ee-green-farms/">E&E Green Farms in Rwanda</a>
           - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/">Child Marriage in Nigeria</a>, Project Lead
-     
+
       - company: Cornell Flora Rose House
         position: Graduate Resident Fellow (GRF)
         start_date: 2021
@@ -215,7 +214,7 @@ cv:
       - name: <a href="https://sumbose.stat.cornell.edu/">Professor Sumanta Basu</a>
         icon: fa-solid fa-thumbtack
         reference: Cornell University, Bowers CIS, Department of Statistics and Data Science
-  
+
       - name: <a href="https://www.joseluismontielolea.com/">Professor José Luis Montiel Olea</a>
         icon: fa-solid fa-thumbtack
         reference: Cornell University, Department of Economics
