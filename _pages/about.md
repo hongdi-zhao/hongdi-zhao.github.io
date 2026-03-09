@@ -6,7 +6,7 @@ subtitle: <a href='https://dyson.cornell.edu/'>Dyson School of Applied Economics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 438, Warren Hall</p>
@@ -18,5 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D. candidate in Applied Economics and Management at Cornell University, with a minor in Data Science.
+Hi! I am a fifth year Ph.D. candidate in Applied Economics and Management at Cornell University, with a minor in Data Science.
 My research interests lie in the fields of applied microeconomics with a focus on economic development and human well-being. I am interested in using Machine Learning as a tool to study economic development. 
