@@ -110,28 +110,32 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Service:
-      - title: STAR Program
+      - company: STAR Program
         position: Peer Mentor
-        date: 2024 - current
+        start_date: 2024
+        end_date: current
         url: https://business.cornell.edu/centers/cider/stars/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Economics That Really Matters (ETRM)
+      - company: Economics That Really Matters (ETRM)
         position: Editor-in-Chief
-        date: 2023 - 2024
+        start_date: 2023
+        end_date: 2024
         url: https://www.econthatmatters.com/
 
-      - title: Student Multidisciplinary Applied Research Teams (SMART) Program
+      - company: Student Multidisciplinary Applied Research Teams (SMART) Program
         position: Project Lead
-        date: 2023 - 2024
+        start_date: 2023
+        end_date: 2024
         url: https://www.econthatmatters.com/
         items: 
           - <a href="https://emergingmarkets.dyson.cornell.edu/ee-green-farms/">E&E Green Farms in Rwanda</a>
           - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/">Child Marriage in Nigeria</a>, Project Lead
      
-      - title: Cornell Flora Rose House
+      - company: Cornell Flora Rose House
         position: Graduate Resident Fellow (GRF)
-        date: 2021 - 2022
+        start_date: 2021
+        end_date: 2022
         url: https://wchs.undergrad.cornell.edu/houses/flora-rose-house
 
     # Publications:

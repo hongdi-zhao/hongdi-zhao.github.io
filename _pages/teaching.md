@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Dyson Graduate Teaching Assistant – Outstanding Service Award [2025]
 nav: true
 nav_order: 5
 calendar: false
