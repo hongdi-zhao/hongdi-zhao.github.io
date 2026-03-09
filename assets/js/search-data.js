@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Dyson Graduate Teaching Assistant – Outstanding Service Award [2025]",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
