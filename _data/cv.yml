@@ -3,7 +3,7 @@ cv:
   # label: Scientist
   email: hz399@cornell.edu
   # location: Princeton, NJ
-  image: ""
+  # image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   # social_networks:
@@ -63,14 +63,14 @@ cv:
       - company: Analysis Group
         position: Summer Associate
         location: Denver, CO
-        start_date: June 2025
-        end_date: Aug 2025
+        start_date: 2025-06
+        end_date: 2025-08
 
       - company: Amazon
         position: Economist Intern
         location: Seattle, WA
-        start_date: May 2024
-        end_date: Aug 2024
+        start_date: 2024-05
+        end_date: 2024-08
         # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         # highlights:
         # - Relativity
@@ -79,8 +79,8 @@ cv:
       - company: International Food Policy Research Institute
         position: Research Analyst
         location: Washington, DC
-        start_date: Sep 2020
-        end_date: Jul 2021
+        start_date: 2020-09
+        end_date: 2021-07
         # highlights:
         # - Description 1.
         # - Description 2.
@@ -88,14 +88,14 @@ cv:
       - company: Yale Economic Growth Center
         position: Pre-doctoral Research Fellow
         location: New Haven, CT
-        start_date: Jul 2019
-        end_date: Aug 2020
+        start_date: 2019-07
+        end_date: 2020-08
 
       - company: Harvard Kennedy School of Government
         position: Research Fellow
         location: Cambridge, MA
-        start_date: Jul 2018
-        end_date: Jul 2019
+        start_date: 2018-07
+        end_date: 2019-07
 
     # Volunteer:
     #   - company: People's Climate March
@@ -109,33 +109,25 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Service:
-      - company: STAR Program
-        position: Peer Mentor
+      - name: Peer Mentor, <a href="">STAR Program</a>
         start_date: 2024
         end_date: present
-        url: https://business.cornell.edu/centers/cider/stars/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - company: Economics That Really Matters (ETRM)
-        position: Editor-in-Chief
+      - name: Co-Edditor-in-Chief, <a href="">Economics That Really Matters (ETRM)</a>
         start_date: 2023
         end_date: 2024
-        url: https://www.econthatmatters.com/
 
-      - company: Student Multidisciplinary Applied Research Teams (SMART) Program
-        position: Project Lead
+      - name: Project Lead, <a href="https://emergingmarkets.dyson.cornell.edu/smart/">Student Multidisciplinary Applied Research Teams (SMART) Program</a>
         start_date: 2023
         end_date: 2024
-        url: https://www.econthatmatters.com/
         highlights:
-          - '[E&E Green Farms in Rwanda](https://emergingmarkets.dyson.cornell.edu/ee-green-farms/)'
-          - '[Child Marriage in Nigeria](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/), Project Lead'
+          - '[E&E Green Farms in Rwanda](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/ee-green-farms/)'
+          - '[Investigating the effects of child brides in Nigeria labor market](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/), Project Lead'
 
-      - company: Cornell Flora Rose House
-        position: Graduate Resident Fellow (GRF)
+      - name: Graduate Resident Fellow, <a href="https://wchs.undergrad.cornell.edu/houses/flora-rose-house">Flora Rose House at Cornell</a>
         start_date: 2021
         end_date: 2022
-        url: https://wchs.undergrad.cornell.edu/houses/flora-rose-house
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
