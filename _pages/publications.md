@@ -12,10 +12,15 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-{% bibliography %}
+  <h2>Working Papers</h2>
+  {% bibliography -f working_papers %}
+
+  <h2>Work in Progress</h2>
+  {% bibliography -f work_in_progress %}
+
+  <h2>Publications</h2>
+  {% bibliography -f publications --group_by year --group_order descending %}
 
 </div>
