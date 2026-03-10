@@ -1,19 +1,27 @@
-"Kosec":
+"kosec":
   - firstname: ["Katrina", "K."]
     url: https://www.ifpri.org/profile/katrina-kosec
 
-"Barrett":
+"barrett":
   - firstname: ["Chris", "C.", "Christopher B."]
     url: http://barrett.dyson.cornell.edu/
 
-"Ragasa":
+"ragasa":
   - firstname: ["Catherine", "C."]
     url: https://www.ifpri.org/profile/catherine-ragasa
 
-"Song":
+"song":
   - firstname: ["J.", "Jie"]
     url: https://are.berkeley.edu/user/13906
 
-"Lee":
+"lee":
   - firstname: ["Seungmin", "Min"]
     url: https://eatorange.github.io/
+
+"morsink":
+  - firstname: ["Karlijn", "K."]
+    url: https://www.karlijnmorsink.com/
+
+"basu":
+  - firstname: ["Sumanta"]
+    url: https://sumbose.stat.cornell.edu/
