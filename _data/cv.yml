@@ -109,28 +109,32 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Service:
-      - company: <a href="https://business.cornell.edu/centers/cider/stars/">STAR Program</a>
+      - company: STAR Program
         position: Peer Mentor
         start_date: 2024
         end_date: present
+        url: https://business.cornell.edu/centers/cider/stars/
 
-      - company: <a href="https://www.econthatmatters.com/">Economics That Really Matters (ETRM)</a>
-        position: Co-Edditor-in-Chief
+      - company: Economics That Really Matters (ETRM)
+        position: Co-Editor-in-Chief
         start_date: 2023
         end_date: 2024
+        url: https://www.econthatmatters.com/
 
-      - company: <a href="https://emergingmarkets.dyson.cornell.edu/smart/">Student Multidisciplinary Applied Research Teams (SMART) Program</a>
+      - company: Student Multidisciplinary Applied Research Teams (SMART) Program
         position: Project Lead
         start_date: 2023
         end_date: 2024
+        url: https://emergingmarkets.dyson.cornell.edu/smart/
         highlights:
-          - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/ee-green-farms/">E&E Green Farms in Rwanda</a>
-          - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/">Investigating the effects of child brides in Nigeria labor market</a>
+          - "[E&E Green Farms in Rwanda](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/ee-green-farms/)"
+          - "[Investigating the effects of child brides in Nigeria labor market](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/)"
 
-      - company: <a href="https://wchs.undergrad.cornell.edu/houses/flora-rose-house">Flora Rose House at Cornell</a>
+      - company: Flora Rose House at Cornell
         position: Graduate Resident Fellow
         start_date: 2021
         end_date: 2022
+        url: https://wchs.undergrad.cornell.edu/houses/flora-rose-house
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
