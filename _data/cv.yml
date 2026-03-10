@@ -109,23 +109,26 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Service:
-      - name: Peer Mentor, <a href="">STAR Program</a>
+      - company: <a href="https://business.cornell.edu/centers/cider/stars/">STAR Program</a>
+        position: Peer Mentor
         start_date: 2024
         end_date: present
-        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - name: Co-Edditor-in-Chief, <a href="">Economics That Really Matters (ETRM)</a>
+      - company: <a href="https://www.econthatmatters.com/">Economics That Really Matters (ETRM)</a>
+        position: Co-Edditor-in-Chief
         start_date: 2023
         end_date: 2024
 
-      - name: Project Lead, <a href="https://emergingmarkets.dyson.cornell.edu/smart/">Student Multidisciplinary Applied Research Teams (SMART) Program</a>
+      - company: <a href="https://emergingmarkets.dyson.cornell.edu/smart/">Student Multidisciplinary Applied Research Teams (SMART) Program</a>
+        position: Project Lead
         start_date: 2023
         end_date: 2024
         highlights:
-          - '[E&E Green Farms in Rwanda](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/ee-green-farms/)'
-          - '[Investigating the effects of child brides in Nigeria labor market](https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/), Project Lead'
+          - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/ee-green-farms/">E&E Green Farms in Rwanda</a>
+          - <a href="https://emergingmarkets.dyson.cornell.edu/smart/smart-2023-24-projects/investigating-the-effects-of-child-brides-in-nigerias-labor-market/">Investigating the effects of child brides in Nigeria labor market</a>
 
-      - name: Graduate Resident Fellow, <a href="https://wchs.undergrad.cornell.edu/houses/flora-rose-house">Flora Rose House at Cornell</a>
+      - company: <a href="https://wchs.undergrad.cornell.edu/houses/flora-rose-house">Flora Rose House at Cornell</a>
+        position: Graduate Resident Fellow
         start_date: 2021
         end_date: 2022
 
