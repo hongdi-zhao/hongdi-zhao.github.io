@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a fifth-year Ph.D. candidate in Applied Economics and Management at Cornell University, with a minor in Data Science.
 
-My research interests are in applied microeconomics and development economics, with a focus on human well-being in low-income settings. I am particularly interested in combining econometric and machine learning methods to study poverty dynamics, child nutrition, and livestock insurance incentive design for agents. More broadly, I am interested in how data and quantitative tools can inform policies aimed at improving welfare. See my [working papers and publications](./papers/)
+My research interests are in applied microeconomics and development economics, with a focus on human well-being in low-income settings. I am particularly interested in combining econometric and machine learning methods to study poverty dynamics, child nutrition, and livestock insurance incentive design for agents. More broadly, I am interested in how data and quantitative tools can inform policies aimed at improving welfare. See my [working papers and publications](./papers/).
 
 You can reach me at hz399@cornell.edu.
