@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 赵虹迪, <a href='https://dyson.cornell.edu/'>Dyson School of Applied Economics and Management at Cornell University</a>
+subtitle: "赵虹迪 | Associate at Analysis Group, Denver"
 
 profile:
   align: right
@@ -18,10 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a fifth-year PhD candidate in Applied Economics and Management at Cornell University, with a minor in Data Science.
+I’m an Associate at Analysis Group in Denver. I earned my PhD in Applied Economics and Management from Cornell University.
 
-I will be joining Analysis Group (Denver office) as an Associate in August 2026. 
-
-My research interests are in applied microeconomics and development economics, with a focus on human well-being in low-income settings. I am particularly interested in combining econometric and machine learning methods to study poverty dynamics, child nutrition, and livestock insurance incentive design for agents. More broadly, I am interested in how data and quantitative tools can inform policies aimed at improving welfare. See my [working papers and publications](./papers/).
+My research is in applied microeconomics and development economics. I use econometric and machine learning methods to study how households move into and out of poverty, how to monitor child malnutrition, and how to design incentives for livestock insurance agents. You can find more on my [papers page](./papers/).
 
 You can reach me at hz399@cornell.edu.

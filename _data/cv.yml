@@ -61,6 +61,12 @@ cv:
 
     Experience:
       - company: Analysis Group
+        position: Associate
+        location: Denver, CO
+        start_date: 2026
+        end_date: present
+
+      - company: Analysis Group
         position: Summer Associate
         location: Denver, CO
         start_date: 2025-06

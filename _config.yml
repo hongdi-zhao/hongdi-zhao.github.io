@@ -9,7 +9,7 @@ last_name: Zhao
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hongdi Zhao's personal website. PhD candidate at Dyson Cornell, focus on development economics.
+  Hongdi Zhao is an Associate at Analysis Group in Denver and holds a PhD from Cornell University. Her research is in applied microeconomics and development economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
